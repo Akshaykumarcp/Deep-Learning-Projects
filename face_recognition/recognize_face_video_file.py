@@ -1,0 +1,1 @@
+# Recognize faces in a video file residing on disk and output the processed video to disk. I won’t be discussing this file today as the bones are from the same skeleton as the video stream file.

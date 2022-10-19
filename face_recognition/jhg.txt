@@ -1,0 +1,8 @@
+conda install -c menpo dlib
+
+conda install -c menpo dlib==19.19.0
+
+conda install -c anaconda mxnet
+
+resolved MSBuild.exe error i,e for installing dlib lib
+https://stackoverflow.com/questions/44478492/cmake-failed-to-run-msbuild-command-msbuild-exe
